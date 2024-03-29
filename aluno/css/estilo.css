@@ -1,0 +1,15 @@
+body{
+  background-image: url('../img/IMG_20190115_134706.jpg') ;
+			background-repeat: no-repeat;
+			background-size:cover;
+			background-clip: padding-box;
+    
+}
+
+
+#corpo
+{
+    background-color: white;
+    border-radius: 5px;
+   
+}
